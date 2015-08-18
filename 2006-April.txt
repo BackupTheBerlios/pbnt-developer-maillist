@@ -1,0 +1,16 @@
+From chrisspen at gmail.com  Sat Apr 22 19:24:14 2006
+From: chrisspen at gmail.com (Chris Spencer)
+Date: Sat, 22 Apr 2006 13:24:14 -0400
+Subject: [Pbnt-developer] Similar Project
+Message-ID: <444A66BE.5090909@gmail.com>
+
+I noticed a open source project similar to yours (but for matlab) at 
+http://bnt.sourceforge.net.
+They seem to have some features that you have planned, such as 
+continuous gaussian distributions. It might be a useful reference if you 
+run into complications.
+
+Chris
+
+
+
